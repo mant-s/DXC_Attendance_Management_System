@@ -1,0 +1,1 @@
+<!-- displays the list of employees and their respective absences. It retrieves the data from the database using the AttendanceService class and displays it in a table format -->
